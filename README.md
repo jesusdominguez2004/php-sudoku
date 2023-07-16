@@ -1,3 +1,3 @@
-# Proyecto PHP Soduko Website!
+# PHP Soduko Website!
 
 - Todo a su tiempo...
